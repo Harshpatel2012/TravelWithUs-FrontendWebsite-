@@ -1,0 +1,30 @@
+.cards{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foot{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    background-color: rgb(190, 188, 188);
+}
+.foot-content a{
+    text-decoration: none;
+    color: #000;
+}
+.foot-content a:hover{
+    text-decoration: underline;
+}
